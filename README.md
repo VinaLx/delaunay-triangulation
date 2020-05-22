@@ -1,4 +1,4 @@
-# Delauny Triangulation Demo
+# Delaunay Triangulation Demo
 
 HKU COMP8504 Artifact Repo by Xue Mingqi
 
@@ -6,11 +6,15 @@ HKU COMP8504 Artifact Repo by Xue Mingqi
 
 ### Dependency
 
+#### Algorithm
+
 - C++17 compiler (tested with apple-clang 11.0.0)
 - cmake (tested with version 3.17)
 - [Eigen3](http://eigen.tuxfamily.org/dox/) (tested with version 3.3.7)
 
-- python3 for plotting (tested with python 3.7)
+#### Plotting
+
+- python3 (tested with python 3.7)
 - [matplotlib](https://matplotlib.org/) (tested with version 3.2)
 
 ### Build
